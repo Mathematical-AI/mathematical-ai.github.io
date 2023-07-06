@@ -34,3 +34,37 @@ div.person-namecard-image {
 .publication-venue {
     font-style: italic;
 }
+
+
+
+@media (prefers-color-scheme: light) { 
+    // body {
+    //     // background-color: transparent;
+    // }
+    :root { 
+        filter: none; 
+    } 
+}
+@media (prefers-color-scheme: dark) { 
+    body {
+        background-color: rgb(255, 246, 230);
+    }
+    :root { 
+        filter: hue-rotate(0deg) invert(100%); 
+        // background-color: rgb(0, 9, 20);
+    } 
+    img {
+        // filter: invert(100%); 
+        filter: invert(100%);// brightness(70%) invert(100%);
+    }
+    video {
+        filter: invert(100%);
+    }
+    iframe {
+        filter: invert(100%);
+    }
+    figure {
+        filter: invert(100%);
+        background: white;
+    }
+}
