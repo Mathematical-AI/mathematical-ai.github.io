@@ -1,0 +1,203 @@
+# This is where we store the metadata for our publications.
+# These can then be automatically formatted for publication lists and citations.
+
+# Preprints
+
+- citekey: liu2023-gestures-arxiv
+  authors:
+    - Y. Ling
+    - L Guo
+    - V. A. Makarov
+    - Y. Huang
+    - A. N. Gorban
+    - E. Mirkes
+    - I. Y. Tyukin
+  year: 2023
+  title: "Agile gesture recognition for capacitive sensing devices: adapting on-the-job"
+  link: https://arxiv.org/abs/2305.07624
+  venue: arXiv:2305.07624
+  type: preprint
+
+- citekey: sutton2022-mathematical-fsl-arxiv
+  authors: 
+    - O. J. Sutton
+    - A. N. Gorban
+    - I. Y. Tyukin
+  year: 2022
+  title: Towards a mathematical understanding of learning from few examples with nonlinear feature maps
+  link: https://arxiv.org/abs/2211.03607
+  venue: arXiv:2211.03607
+  type: preprint
+
+
+# Conference proceedings
+
+- citekey: zhou2023-ijcnn
+  authors: 
+    - Q. Zhou
+    - O. J. Sutton
+    - Y. Zhang
+    - A. N. Gorban
+    - V. A. Makarov
+    - I. Y. Tyukin
+  year: 2023
+  title: Neuromorphic tuning of feature spaces to overcome the challenge of low-sample high-dimensional data
+  venue: IJCNN 2023
+  type: proceedings
+
+- citekey: leete2022-iciai-error-correction
+  authors: 
+    - G. D. Leete
+    - A. N. Gorban
+    - I. Y. Tyukin
+  year: 2022
+  title: Fast situation-based correction of AI systems
+  link: https://ieeexplore.ieee.org/abstract/document/9976512
+  venue: ICIAI 2022
+  type: proceedings
+
+- citekey: zhou2022-ijcnn-nas
+  authors: 
+    - Q. Zhou
+    - A. N. Gorban
+    - E. M. Mirkes
+    - J. Bac
+    - A. Zinovyev
+    - I. Y. Tyukin
+  year: 2022
+  title: Quasi-orthogonality and intrinsic dimensions as measures of learning and generalisation
+  link: https://ieeexplore.ieee.org/document/9892337
+  venue: IJCNN 2022
+  type: proceedings
+
+- citekey: tyukin2021-ijcnn-demystification
+  authors: 
+    - I. Y. Tyukin
+    - A. N. Gorban
+    - M. H. Alkhudaydi
+    - Q. Zhou
+  year: 2021
+  title: Demystification of few-shot and one-shot learning
+  link: https://ieeexplore.ieee.org/document/9534395
+  venue: IJCNN 2021
+  type: proceedings
+
+
+# Journal publications
+
+- citekey: markfort2023-NIMA
+  authors: 
+    - A. Markfort
+    - A. Baranov
+    - T. M. Conneely
+    - A. Duran
+    - J. Milnes
+    - A. Mudrov
+    - J. Lapington
+    - I. Y. Tyukin
+  year: 2023
+  title: Utilising machine learning algorithms for high speed data processing of a single photon counting 256 channel PMT with a timing resolution of 60 ps
+  link: https://www.sciencedirect.com/science/article/pii/S0168900222011597
+  venue: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
+  extra: Volume 1047
+  type: journal
+
+- citekey: wang2023-myinet
+  authors:
+    - S. Wang
+    - A. Abdelaty
+    - K. Parke
+    - J. R. Arnold
+    - G. P. McCann
+    - I. Y. Tyukin
+  year: 2023
+  title: "MyI-Net: Fully Automatic Detection and Quantification of Myocardial Infarction from Cardiovascular MRI Images"
+  link: https://www.mdpi.com/1099-4300/25/3/431
+  venue: Entropy
+  extra: 25(3), 431
+  type: journal
+
+- citekey: helden2022-jcaa
+  authors: 
+    - D. van Helden
+    - E. Mirkes
+    - I. Y. Tyukin
+    - P. Allison
+  year: 2022
+  title: "The Arch-I-Scan Project: artificial intelligence and 3D simulation for developing new approaches to Roman foodways"
+  link: https://journal.caa-international.org/articles/10.5334/jcaa.92
+  venue: Journal of Computer Applications in Archaeology
+  extra: 5(1), 78-95
+  type: journal
+
+- citekey: barker2022-cardiac-systemic-review
+  authors:
+    - J. Barker
+    - X. Li
+    - S. Khavandi
+    - D. Koeckerling
+    - A. Mavilakandy
+    - C. Pepper
+    - V. Bountziouka
+    - L. Chen
+    - A. Kotb
+    - I. Antoun
+    - J. Mansir
+    - K. Smith-Byrne
+    - F. S. Schlindwein
+    - H. Dhutia
+    - I. Y. Tyukin
+    - W. B. Nicolson
+    - G. A. Ng
+  year: 2022
+  title: "Machine learning in sudden cardiac death risk prediction: a systematic review"
+  link: https://academic.oup.com/europace/article/24/11/1777/6749798
+  venue: EP Europace
+  extra: Volume 24, Issue 11, Pages 1777-1787
+  type: journal
+
+- citekey: markfort2022-single-photon
+  authors: 
+    - A. Markfort
+    - A. Baranov
+    - T. M. Conneely
+    - A. Duran
+    - J. Lapington
+    - J. Milnes
+    - W. Moore
+    - A. Mudrov
+    - I. Y. Tyukin
+  year: 2022
+  title: "Investigating machine learning solutions for a 256 channel TCSPC camera with sub-70 ps single photon timing per channel at data rates >10 Gbps"
+  link: https://iopscience.iop.org/article/10.1088/1748-0221/17/07/C07023/meta
+  venue: Journal of Instrumentation
+  extra: Volume 17, Issue 7, C07023
+  type: journal
+
+- citekey: lukashevich2022-data-drive-coagulation
+  authors: 
+    - D. Lukashevich
+    - G. V. Ovchinnikov
+    - I. Y. Tyukin
+    - S. A. Matveev
+    - N. V. Brilliantov
+  year: 2022
+  title: Data-Driven Approach for Modeling Coagulation Kinetics
+  link: https://link.springer.com/article/10.1007/s10598-023-09574-5
+  venue: Computational Mathematics and Modeling
+  extra: 33(3), 310-318
+  type: journal
+
+- citekey: gorban2021-high-dim-separability-entropy
+  authors:
+    - A. N. Gorban
+    - G. Grechuk
+    - E. M. Mirkes
+    - S. V. Stasenko
+    - I. Y. Tyukin
+  year: 2021
+  title: High-dimensional separability for one- and few-shot learning
+  link: https://www.mdpi.com/1099-4300/23/8/1090
+  venue: Entropy
+  extra: 23(8), 1090
+  type: journal

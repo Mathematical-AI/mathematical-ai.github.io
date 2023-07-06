@@ -1,0 +1,26 @@
+
+{%- assign pubs = site.data.publications | where: 'citekey', include.citekey -%}
+
+{%- if pubs.size > 0 -%}
+{%- assign pub = pubs | first -%}
+{%- for author in pub.authors -%}
+    {%- if forloop.last -%} and {% endif -%}
+    {% include author_link.html author=author %}
+    {%- unless forloop.last -%}
+    , 
+    {% endunless %}
+{%- endfor %}
+({{ pub.year }}). 
+{%- if pub.link %}
+[{{ pub.title }}]({{ pub.link }})
+{%- else %}
+{{ pub.title }}
+{%- endif -%}, 
+*{{ pub.venue }}*
+{%- if pub.extra -%}, {{ pub.extra }}{%- endif -%}.
+{%- if pub.note %}
+{%- unless include.suppressNote %}
+*{{ pub.note }}*
+{% endunless %}
+{% endif %}
+{% endif %}

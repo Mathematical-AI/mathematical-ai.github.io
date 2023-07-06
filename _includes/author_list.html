@@ -1,0 +1,14 @@
+
+{% assign authorCount = include.authors | size %}
+{% if authorCount == 1 %}
+    {% assign author = include.authors | first %}
+    {% include author_link.html author=author %}
+{% else %}
+    {% for author in include.authors %}
+        {% if forloop.last %}
+            and {% include author_link.html author=author %}
+        {% else %}
+            {% include author_link.html author=author %}, 
+        {% endif %}
+    {% endfor %}
+{% endif %}

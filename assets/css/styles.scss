@@ -1,0 +1,27 @@
+---
+---
+
+$dummy: none;
+$backgroundColour: white;//
+$colourfulBackgroundImage: url({{ "bg-multicolour.svg" | prepend: site.imagedir | relative_path }});
+
+$preambleBackground: rgb(231, 242, 255);
+
+$blueBackground: rgb(231, 242, 255);
+$blueBackgroundImage: url({{ "bg-blue.svg" | prepend: site.imagedir | relative_path }});
+
+$yellowBackground: rgb(255, 247, 230);;
+$yellowBackgroundImage: url({{ "bg-yellow.svg" | prepend: site.imagedir | relative_path }});
+
+$purpleBackground: rgb(234, 223, 254);
+$purpleBackgroundImage: url({{ "bg-purple.svg" | prepend: site.imagedir | relative_path }});
+
+$defaultHighlighBackground: $yellowBackground;
+$defaultHighlightBackgroundImage: $yellowBackgroundImage;
+
+$titleFont: 'Quicksand', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+$footerTextColour: #828282;
+$captionTextColour: #505050;
+
+@import "main";

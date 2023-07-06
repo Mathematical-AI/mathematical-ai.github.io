@@ -1,0 +1,39 @@
+
+{%- assign pubs = site.data.publications | sort: 'year' | reverse -%}
+
+{%- if include.type -%}
+    {% comment %} 
+        Filter the publications to just those of the specified type
+    {% endcomment %}
+
+    {%- assign items = pubs | where: 'type', include.type -%}
+    {%- assign items = items | map: 'citekey' -%}
+
+{%- elsif include.author -%}
+    {% comment %} 
+        Filter the publications to just those with a specific author
+    {% endcomment %}
+
+    {%- assign items = '' | split: '' -%}
+
+    {%- for pub in pubs -%}
+    {%- if pub.authors contains include.author -%}
+    {%- assign key = pub.citekey | split: ' ' -%}
+    {%- assign items = items | concat: key -%}
+    {%- endif -%}
+    {%- endfor -%}
+
+{%- else -%}
+
+    {%- assign items = pubs -%}
+    {%- assign items = items | map: 'citekey' -%}
+    
+{%- endif -%}
+
+<ul class="publications-list">
+{% for pub in items %}
+<li class="li-publication">
+{%- include citation_html.html citekey=pub -%}
+</li>
+{% endfor %}
+</ul>

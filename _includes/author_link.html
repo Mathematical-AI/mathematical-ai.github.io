@@ -1,0 +1,11 @@
+{%- assign matches = site.people | where: "name", include.author -%}
+{%- if matches.size == 0 -%}
+{%- assign matches = site.people | where: "publication-name", include.author -%}
+{%- endif -%}
+{%- assign nmatches = matches | size -%}
+{%- if nmatches > 0 -%}
+{%- assign person = matches | first | name -%}
+<a href="{{- person.url | relative_url -}}">{{- include.author -}}</a>
+{%- else -%}
+{{- include.author -}}
+{%- endif -%}
