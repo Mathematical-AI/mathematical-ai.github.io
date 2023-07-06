@@ -45,7 +45,7 @@ int main() {
 
 and a gif animation of cyclic competition:
 
-![cyclic competition]({{ '/images/about/cycliccompetition.gif' | relative_url }})
+![cyclic competition]({{ site.imagedir | append: 'blog/examples/cycliccompetition.gif' | relative_url }})
 
 We can even include interactive graphics generated in python, using the `mpld3` package
 

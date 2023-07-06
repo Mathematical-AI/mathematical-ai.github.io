@@ -50,7 +50,7 @@ plt.show()
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_5_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_5_0.png' | relative_url }})
     
 
 
@@ -90,7 +90,7 @@ plt.show()
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_9_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_9_0.png' | relative_url }})
     
 
 
@@ -335,7 +335,7 @@ model.evaluate(validation_dataset, verbose=2);
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_19_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_19_0.png' | relative_url }})
     
 
 
@@ -364,7 +364,7 @@ sns.reset_orig()
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_21_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_21_0.png' | relative_url }})
     
 
 
@@ -437,7 +437,7 @@ show_filters(0)
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_25_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_25_0.png' | relative_url }})
     
 
 
@@ -450,7 +450,7 @@ show_feature_maps(digit_images[0][0], 0)
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_27_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_27_0.png' | relative_url }})
     
 
 
@@ -463,7 +463,7 @@ show_feature_maps(digit_images[1][1], 0)
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_29_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_29_0.png' | relative_url }})
     
 
 
@@ -476,7 +476,7 @@ show_feature_maps(digit_images[0][0], 2)
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_31_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_31_0.png' | relative_url }})
     
 
 
@@ -489,7 +489,7 @@ show_feature_maps(digit_images[1][1], 2)
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_33_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_33_0.png' | relative_url }})
     
 
 
@@ -502,7 +502,7 @@ show_feature_maps(digit_images[2][1], 2)
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_35_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_35_0.png' | relative_url }})
     
 
 
@@ -552,7 +552,7 @@ plt.show()
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_39_0.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_39_0.png' | relative_url }})
     
 
 
@@ -580,7 +580,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_1.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_1.png' | relative_url }})
     
 
 
@@ -589,7 +589,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_3.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_3.png' | relative_url }})
     
 
 
@@ -598,7 +598,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_5.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_5.png' | relative_url }})
     
 
 
@@ -607,7 +607,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_7.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_7.png' | relative_url }})
     
 
 
@@ -616,7 +616,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_9.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_9.png' | relative_url }})
     
 
 
@@ -625,7 +625,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_11.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_11.png' | relative_url }})
     
 
 
@@ -634,7 +634,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_13.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_13.png' | relative_url }})
     
 
 
@@ -643,7 +643,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_15.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_15.png' | relative_url }})
     
 
 
@@ -652,7 +652,7 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_17.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_17.png' | relative_url }})
     
 
 
@@ -661,6 +661,6 @@ for digit in range(10):
 
 
     
-![png]({{ '/images/exploring-a-convolutional-neural-network/cnn2_41_19.png' | relative_url }})
+![png]({{ site.imagedir | append: 'blog/exploring-a-convolutional-neural-network-images/cnn2_41_19.png' | relative_url }})
     
 
