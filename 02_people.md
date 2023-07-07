@@ -6,7 +6,7 @@ permalink: /people/
 
 {% assign people = site.people | where: "position-tag", "professor" %}
 {% if people.size > 0 %}
-# Professors
+# Academic Staff
 {% for person in people %}
 [{{ person.title }}]({{ person.url | relative_url }})
 {% endfor %}
@@ -14,7 +14,6 @@ permalink: /people/
 
 {% assign people = site.people | where: "position-tag", "lecturer" %}
 {% if people.size > 0 %}
-# Lecturers
 {% for person in people %}
 [{{ person.title }}]({{ person.url | relative_url }})
 {% endfor %}
