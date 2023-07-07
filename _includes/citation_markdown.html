@@ -1,5 +1,4 @@
-
-{%- assign pubs = site.data.publications | where: 'citekey', include.citekey -%}
+{%- assign pubs = site.data.publications | where: 'citekey', include.citekey | first -%}
 
 {%- if pubs.size > 0 -%}
     {%- assign pub = pubs | first -%}
