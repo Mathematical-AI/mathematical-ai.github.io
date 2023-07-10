@@ -3,9 +3,9 @@
 
 # Preprints
 
-- citekey: liu2023-gestures-arxiv
+- citekey: Liu2023-agile-gesture-recognition
   authors:
-    - Y. Ling
+    - Y. Liu
     - L. Guo
     - V. A. Makarov
     - Y. Huang
@@ -18,7 +18,7 @@
   venue: arXiv:2305.07624
   type: preprint
 
-- citekey: sutton2022-mathematical-fsl-arxiv
+- citekey: Sutton2022-towards-a-mathematical
   authors: 
     - O. J. Sutton
     - A. N. Gorban
@@ -29,10 +29,9 @@
   venue: arXiv:2211.03607
   type: preprint
 
+# Conference proceedings articles
 
-# Conference proceedings
-
-- citekey: zhou2023-ijcnn
+- citekey: Zhou2023-neuromorphic-tuning-of
   authors: 
     - Q. Zhou
     - O. J. Sutton
@@ -42,10 +41,10 @@
     - I. Y. Tyukin
   year: 2023
   title: Neuromorphic tuning of feature spaces to overcome the challenge of low-sample high-dimensional data
-  venue: IJCNN 2023
+  venue: 2023 International Joint Conference On Neural Networks (IJCNN)
   type: proceedings
 
-- citekey: leete2022-iciai-error-correction
+- citekey: Leete2022-fast-situation-based
   authors: 
     - G. D. Leete
     - A. N. Gorban
@@ -53,39 +52,139 @@
   year: 2022
   title: Fast situation-based correction of AI systems
   link: https://ieeexplore.ieee.org/abstract/document/9976512
-  venue: ICIAI 2022
+  venue: 4th International Conference on Industrial Artificial Intelligence (ICIAI)
   type: proceedings
 
-- citekey: zhou2022-ijcnn-nas
-  authors: 
-    - Q. Zhou
-    - A. N. Gorban
-    - E. M. Mirkes
-    - J. Bac
-    - A. Zinovyev
-    - I. Y. Tyukin
-  year: 2022
+- citekey: Zhou2022-quasi-orthogonality-and
+  authors:
+  - Q. Zhou
+  - A. N. Gorban
+  - E. M. Mirkes
+  - J. Bac
+  - A. Zinovyev
+  - I. Y. Tyukin
   title: Quasi-orthogonality and intrinsic dimensions as measures of learning and generalisation
-  link: https://ieeexplore.ieee.org/document/9892337
-  venue: IJCNN 2022
+  year: 2022
+  doi: https://doi.org/10.1109/IJCNN55064.2022.9892337
+  link: https://doi.org/10.1109/IJCNN55064.2022.9892337
+  venue: 2022 International Joint Conference On Neural Networks (IJCNN)
   type: proceedings
 
-- citekey: tyukin2021-ijcnn-demystification
-  authors: 
-    - I. Y. Tyukin
-    - A. N. Gorban
-    - M. H. Alkhudaydi
-    - Q. Zhou
+- citekey: Turker2021-efficient-state-synchronisation
+  authors:
+  - U. C. Turker
+  - R. M. Hierons
+  - M. R. Mousavi
+  - I. Y. Tyukin
+  title: Efficient state synchronisation in model-based testing through reinforcement learning
   year: 2021
-  title: Demystification of few-shot and one-shot learning
-  link: https://ieeexplore.ieee.org/document/9534395
-  venue: IJCNN 2021
+  doi: https://doi.org/10.1109/ASE51524.2021.9678566
+  link: https://doi.org/10.1109/ASE51524.2021.9678566
+  venue: 2021 36th IEEE/ACM International Conference On Automated Software Engineering ASE 2021
+  type: proceedings
+- citekey: Tyukin2021-demystification-of-few
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - M. H. Alkhudaydi
+  - Q. Zhou
+  title: Demystification of Few-shot and One-shot Learning
+  year: 2021
+  doi: https://doi.org/10.1109/IJCNN52387.2021.9534395
+  link: https://doi.org/10.1109/IJCNN52387.2021.9534395
+  venue: 2021 International Joint Conference On Neural Networks (IJCNN)
+  type: proceedings
+- citekey: Fenwick2020-neural-networks-for
+  authors:
+  - R. Fenwick
+  - H. Boecsh
+  - I. Y. Tyukin
+  title: Neural Networks for the Retrieval of Methane from the Sentinel-5 Precursor Satellite
+  year: 2020
+  venue: 2020 International Joint Conference On Neural Networks (IJCNN)
+  type: proceedings
+- citekey: Tyukin2020-on-adversarial-examples
+  authors:
+  - I. Y. Tyukin
+  - D. J. Higham
+  - A. N. Gorban
+  title: On Adversarial Examples and Stealth Attacks in Artificial Intelligence Systems
+  year: 2020
+  venue: 2020 International Joint Conference On Neural Networks (IJCNN)
+  type: proceedings
+- citekey: Wang2020-myocardial-infarction-detection
+  authors:
+  - S. Wang
+  - G. McCann
+  - I. Y. Tyukin
+  title: Myocardial Infarction Detection and Quantification Based on a Convolution Neural Network with Online Error Correction Capabilities
+  year: 2020
+  venue: 2020 International Joint Conference On Neural Networks (IJCNN)
+  type: proceedings
+- citekey: Tyukin2019-bringing-the-blessing
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - A. McEwan
+  - S. Meshkinfamfard
+  title: Bringing the Blessing of Dimensionality to the Edge
+  year: 2019
+  venue: 2019 1st International Conference On Industrial Artificial Intelligence (IAI 2019)
+  type: proceedings
+- citekey: Tyukin2019-kernel-stochastic-separation
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - B. Grechuk
+  - S. Green
+  title: Kernel Stochastic Separation Theorems and Separability Characterizations of Kernel Classifiers
+  year: 2019
+  venue: 2019 International Joint Conference On Neural Networks (IJCNN)
+  type: proceedings
+- citekey: Meshkinfamfard2018-tackling-rare-false
+  authors:
+  - S. Meshkinfamfard
+  - A. N. Gorban
+  - I. Y. Tyukin
+  title: 'Tackling Rare False-Positives in Face Recognition: a Case Study'
+  year: 2018
+  doi: https://doi.org/10.1109/HPCC/SmartCity/DSS.2018.00260
+  link: https://doi.org/10.1109/HPCC/SmartCity/DSS.2018.00260
+  venue: IEEE 20th International Conference On High Performance Computing And Communications / IEEE 16th International Conference On Smart City / IEEE 4th International Conference On Data Science And Systems (HPCC/Smartcity/DSS)
+  type: proceedings
+- citekey: Tyukin2018-efficiency-of-shallow
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - D. Prokhorov V
+  - S. Green
+  title: Efficiency of Shallow Cascades for Improving Deep Learning AI Systems
+  year: 2018
+  venue: 2018 International Joint Conference On Neural Networks (IJCNN)
+  type: proceedings
+- citekey: Gorban2014-further-results-on
+  authors:
+  - A. N. Gorban
+  - I. Y. Tyukin
+  - H. Nijmeijer
+  title: Further Results on Lyapunov-Like Conditions of Forward Invariance and Boundedness for a Class of Unstable Systems
+  year: 2014
+  venue: 2014 IEEE 53Rd Annual Conference On Decision And Control (CDC)
+  type: proceedings
+- citekey: Tyukin2009-feasibility-of-random
+  authors:
+  - I. Y. Tyukin
+  - D. V. Prokhorov
+  title: Feasibility of random basis function approximators for modeling and control
+  year: 2009
+  doi: https://doi.org/10.1109/CCA.2009.5281061
+  link: https://doi.org/10.1109/CCA.2009.5281061
+  venue: 2009 IEEE Control Applications Cca \& Intelligent Control (Isic), Vols 1-3
   type: proceedings
 
+# Journal articles
 
-# Journal publications
-
-- citekey: markfort2023-NIMA
+- citekey: Markfort2023-utilising-machine-learning
   authors: 
     - A. Markfort
     - A. Baranov
@@ -99,25 +198,72 @@
   title: Utilising machine learning algorithms for high speed data processing of a single photon counting 256 channel PMT with a timing resolution of 60 ps
   link: https://www.sciencedirect.com/science/article/pii/S0168900222011597
   venue: "Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment"
-  extra: Volume 1047
+  extra: 1047
   type: journal
 
-- citekey: wang2023-myinet
+- citekey: Wang2023-myi-net-fully
   authors:
-    - S. Wang
-    - A. Abdelaty
-    - K. Parke
-    - J. R. Arnold
-    - G. P. McCann
-    - I. Y. Tyukin
+  - S. Wang
+  - A. M. S. E. K. Abdelaty
+  - K. Parke
+  - J. R. Arnold
+  - G. P. McCann
+  - I. Y. Tyukin
+  title: 'MyI-Net: Fully Automatic Detection and Quantification of Myocardial Infarction from Cardiovascular MRI Images'
   year: 2023
-  title: "MyI-Net: Fully Automatic Detection and Quantification of Myocardial Infarction from Cardiovascular MRI Images"
-  link: https://www.mdpi.com/1099-4300/25/3/431
+  doi: https://doi.org/10.3390/e25030431
+  link: https://doi.org/10.3390/e25030431
   venue: Entropy
-  extra: 25(3), 431
+  extra: 25(3)
   type: journal
-
-- citekey: helden2022-jcaa
+- citekey: Mousavi2023-trustworthy-autonomous-systems
+  authors:
+  - M. R. Mousavi
+  - A. Cavalcanti
+  - M. Fisher
+  - L. Dennis
+  - R. Hierons
+  - B. Kaddouh
+  - E. L. Law
+  - R. Richardson
+  - J. O. Ringer
+  - I. Y. Tyukin
+  - J. Woodcock
+  title: Trustworthy Autonomous Systems Through Verifiability
+  year: 2023
+  doi: https://doi.org/10.1109/MC.2022.3192206
+  link: https://doi.org/10.1109/MC.2022.3192206
+  venue: Computer
+  extra: 56(2), pages 40-47
+  type: journal
+- citekey: Barker2022-machine-learning-in
+  authors:
+  - J. Barker
+  - X. Li
+  - S. Khavandi
+  - D. Koeckerling
+  - A. Mavilakandy
+  - C. Pepper
+  - V. Bountziouka
+  - L. Chen
+  - A. Kotb
+  - I. Antoun
+  - J. Mansir
+  - K. Smith-Byrne
+  - F. S. Schlindwein
+  - H. Dhutia
+  - I. Y. Tyukin
+  - W. B. Nicolson
+  - G. Andre Ng
+  title: 'Machine learning in sudden cardiac death risk prediction: a systematic review'
+  year: 2022
+  doi: https://doi.org/10.1093/europace/euac135
+  link: https://doi.org/10.1093/europace/euac135
+  venue: Europace
+  extra: 24(11), pages 1777-1787
+  type: journal
+  
+- citekey: Helden2022-the-arch-i
   authors: 
     - D. van Helden
     - E. Mirkes
@@ -130,33 +276,7 @@
   extra: 5(1), 78-95
   type: journal
 
-- citekey: barker2022-cardiac-systemic-review
-  authors:
-    - J. Barker
-    - X. Li
-    - S. Khavandi
-    - D. Koeckerling
-    - A. Mavilakandy
-    - C. Pepper
-    - V. Bountziouka
-    - L. Chen
-    - A. Kotb
-    - I. Antoun
-    - J. Mansir
-    - K. Smith-Byrne
-    - F. S. Schlindwein
-    - H. Dhutia
-    - I. Y. Tyukin
-    - W. B. Nicolson
-    - G. A. Ng
-  year: 2022
-  title: "Machine learning in sudden cardiac death risk prediction: a systematic review"
-  link: https://academic.oup.com/europace/article/24/11/1777/6749798
-  venue: EP Europace
-  extra: Volume 24, Issue 11, Pages 1777-1787
-  type: journal
-
-- citekey: markfort2022-single-photon
+- citekey: Markfort2022-investigating-machine-learning
   authors: 
     - A. Markfort
     - A. Baranov
@@ -174,7 +294,7 @@
   extra: Volume 17, Issue 7, C07023
   type: journal
 
-- citekey: lukashevich2022-data-drive-coagulation
+- citekey: Lukashevich2022-data-drive-approach
   authors: 
     - D. Lukashevich
     - G. V. Ovchinnikov
@@ -188,16 +308,466 @@
   extra: 33(3), 310-318
   type: journal
 
-- citekey: gorban2021-high-dim-separability-entropy
+- citekey: Bac2021-scikit-dimension-a
   authors:
-    - A. N. Gorban
-    - G. Grechuk
-    - E. M. Mirkes
-    - S. V. Stasenko
-    - I. Y. Tyukin
+  - J. Bac
+  - E. M. Mirkes
+  - A. N. Gorban
+  - I. Y. Tyukin
+  - A. Zinovyev
+  title: 'Scikit-Dimension: A Python Package for Intrinsic Dimension Estimation'
   year: 2021
-  title: High-dimensional separability for one- and few-shot learning
-  link: https://www.mdpi.com/1099-4300/23/8/1090
+  doi: https://doi.org/10.3390/e23101368
+  link: https://doi.org/10.3390/e23101368
   venue: Entropy
-  extra: 23(8), 1090
+  extra: 23(10)
+  type: journal
+- citekey: Jareno2021-learning-from-scarce
+  authors:
+  - S. J. N. Jareno
+  - D. P. van Helden
+  - E. M. Mirkes
+  - I. Y. Tyukin
+  - P. M. Allison
+  title: 'Learning from Scarce Information: Using Synthetic Data to Classify Roman Fine Ware Pottery'
+  year: 2021
+  doi: https://doi.org/10.3390/e23091140
+  link: https://doi.org/10.3390/e23091140
+  venue: Entropy
+  extra: 23(9)
+  type: journal
+- citekey: Gorban2021-high-dimensional-separability
+  authors:
+  - A. N. Gorban
+  - B. Grechuk
+  - E. M. Mirkes
+  - S. Stasenko V
+  - I. Y. Tyukin
+  title: High-Dimensional Separability for One- and Few-Shot Learning
+  year: 2021
+  doi: https://doi.org/10.3390/e23081090
+  link: https://doi.org/10.3390/e23081090
+  venue: Entropy
+  extra: 23(8)
+  type: journal
+- citekey: Wang2021-advances-in-data
+  authors:
+  - S. Wang
+  - M. E. Celebi
+  - Y. Zhang
+  - X. Yu
+  - S. Lu
+  - X. Yao
+  - Q. Zhou
+  - M. Miguel
+  - Y. Tian
+  - J. M. Gorriz
+  - I. Y. Tyukin
+  title: 'Advances in Data Preprocessing for Biomedical Data Fusion: An Overview of the Methods, Challenges, and Prospects'
+  year: 2021
+  doi: https://doi.org/10.1016/j.inffus.2021.07.001
+  link: https://doi.org/10.1016/j.inffus.2021.07.001
+  venue: Information Fusion
+  extra: 76, pages 376-421
+  type: journal
+- citekey: Tyukin2021-blessing-of-dimensionality
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - A. A. McEwan
+  - S. Meshkinfamfard
+  - L. Tang
+  title: Blessing of dimensionality at the edge and geometry of few-shot learning
+  year: 2021
+  doi: https://doi.org/10.1016/j.ins.2021.01.022
+  link: https://doi.org/10.1016/j.ins.2021.01.022
+  venue: Information Sciences
+  extra: 564, pages 124-143
+  type: journal
+- citekey: Grechuk2021-general-stochastic-separation
+  authors:
+  - B. Grechuk
+  - A. N. Gorban
+  - I. Y. Tyukin
+  title: General stochastic separation theorems with optimal bounds
+  year: 2021
+  doi: https://doi.org/10.1016/j.neunet.2021.01.034
+  link: https://doi.org/10.1016/j.neunet.2021.01.034
+  venue: Neural Networks
+  extra: 138, pages 33-56
+  type: journal
+- citekey: Brilliantov2020-swirlonic-state-of
+  authors:
+  - N. V. Brilliantov
+  - H. Abutuqayqah
+  - I. Y. Tyukin
+  - S. A. Matveev
+  title: Swirlonic state of active matter
+  year: 2020
+  doi: https://doi.org/10.1038/s41598-020-73824-4
+  link: https://doi.org/10.1038/s41598-020-73824-4
+  venue: Scientific Reports
+  extra: 10(1)
+  type: journal
+- citekey: CalvoTapia2020-universal-principles-justify
+  authors:
+  - C. Calvo Tapia
+  - I. Y. Tyukin
+  - V. A. Makarov
+  title: Universal principles justify the existence of concept cells
+  year: 2020
+  doi: https://doi.org/10.1038/s41598-020-64466-7
+  link: https://doi.org/10.1038/s41598-020-64466-7
+  venue: Scientific Reports
+  extra: 10(1)
+  type: journal
+- citekey: Gorban2020-how-deep-should
+  authors:
+  - A. N. Gorban
+  - E. M. Mirkes
+  - I. Y. Tyukin
+  title: 'How Deep Should be the Depth of Convolutional Neural Networks: a Backyard Dog Case Study'
+  year: 2020
+  doi: https://doi.org/10.1007/s12559-019-09667-7
+  link: https://doi.org/10.1007/s12559-019-09667-7
+  venue: Cognitive Computation
+  extra: 12(2, SI), pages 388-397
+  type: journal
+- citekey: Gorban2020-high-dimensional-brain
+  authors:
+  - A. N. Gorban
+  - V. A. Makarov
+  - I. Y. Tyukin
+  title: 'High-Dimensional Brain in a High-Dimensional World: Blessing of Dimensionality'
+  year: 2020
+  doi: https://doi.org/10.3390/e22010082
+  link: https://doi.org/10.3390/e22010082
+  venue: Entropy
+  extra: 22(1)
+  type: journal
+- citekey: Tyukin2019-high-dimensional-brain
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - C. Calvo
+  - J. Makarova
+  - V. A. Makarov
+  title: 'High-Dimensional Brain: A Tool for Encoding and Rapid Learning of Memories by Single Neurons'
+  year: 2019
+  doi: https://doi.org/10.1007/s11538-018-0415-5
+  link: https://doi.org/10.1007/s11538-018-0415-5
+  venue: Bulletin Of Mathematical Biology
+  extra: 81(11, SI), pages 4856-4888
+  type: journal
+- citekey: Gorban2019-the-unreasonable-effectiveness
+  authors:
+  - A. N. Gorban
+  - V. A. Makarov
+  - I. Y. Tyukin
+  title: The unreasonable effectiveness of small neural ensembles in high-dimensional brain
+  year: 2019
+  doi: https://doi.org/10.1016/j.plrev.2018.09.005
+  link: https://doi.org/10.1016/j.plrev.2018.09.005
+  venue: Physics Of Life Reviews
+  extra: 29, pages 55-88
+  type: journal
+- citekey: Gorban2019-symphony-of-high
+  authors:
+  - A. N. Gorban
+  - V. A. Makarov
+  - I. Y. Tyukin
+  title: Symphony of high-dimensional brain Reply to comments on ''The unreasonable effectiveness of small neural ensembles in high-dimensional brain''
+  year: 2019
+  doi: https://doi.org/10.1016/j.plrev.2019.06.003
+  link: https://doi.org/10.1016/j.plrev.2019.06.003
+  venue: Physics Of Life Reviews
+  extra: 29, pages 115-119
+  type: journal
+- citekey: Tyukin2019-simple-model-of
+  authors:
+  - I. Y. Tyukin
+  - D. Iudin
+  - F. Iudin
+  - T. Tyukina
+  - V. Kazantsev
+  - I. Mukhina
+  - A. N. Gorban
+  title: Simple model of complex dynamics of activity patterns in developing networks of neuronal cultures
+  year: 2019
+  doi: https://doi.org/10.1371/journal.pone.0218304
+  link: https://doi.org/10.1371/journal.pone.0218304
+  venue: PLoS ONE
+  extra: 14(6)
+  type: journal
+- citekey: Tyukin2019-fast-construction-of
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - S. Green
+  - D. Prokhorov
+  title: 'Fast construction of correcting ensembles for legacy Artificial Intelligence systems: Algorithms and a case study'
+  year: 2019
+  doi: https://doi.org/10.1016/j.ins.2018.11.057
+  link: https://doi.org/10.1016/j.ins.2018.11.057
+  venue: Information Sciences
+  extra: 485, pages 230-247
+  type: journal
+- citekey: Gorban2019-one-trial-correction
+  authors:
+  - A. N. Gorban
+  - R. Burton
+  - I. Romanenko
+  - I. Y. Tyukin
+  title: One-trial correction of legacy AI systems and stochastic separation theorems
+  year: 2019
+  doi: https://doi.org/10.1016/j.ins.2019.02.001
+  link: https://doi.org/10.1016/j.ins.2019.02.001
+  venue: Information Sciences
+  extra: 484, pages 237-254
+  type: journal
+- citekey: Wilson2019-implementation-of-the
+  authors:
+  - E. Wilson
+  - T. M. Conneely
+  - A. Mudrov
+  - I. Y. Tyukin
+  title: Implementation of the Prony Method for Signal Deconvolution
+  year: 2019
+  doi: https://doi.org/10.1016/j.ifacol.2019.12.661
+  link: https://doi.org/10.1016/j.ifacol.2019.12.661
+  venue: IFAC Papersonline
+  extra: 52(29), pages 269-273
+  type: journal
+- citekey: Suganthan2018-preface-special-issue
+  authors:
+  - P. N. Suganthan
+  - S. Mitra
+  - I. Y. Tyukin
+  title: Preface special issue on non-iterative approaches in learning
+  year: 2018
+  doi: https://doi.org/10.1016/j.asoc.2018.07.054
+  link: https://doi.org/10.1016/j.asoc.2018.07.054
+  venue: Applied Soft Computing
+  extra: 70, pages 947-950
+  type: journal
+- citekey: Tyukin2018-knowledge-transfer-between
+  authors:
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - K. I. Sofeykov
+  - I. Romanenko
+  title: Knowledge Transfer Between Artificial Intelligence Systems
+  year: 2018
+  doi: https://doi.org/10.3389/fnbot.2018.00049
+  link: https://doi.org/10.3389/fnbot.2018.00049
+  venue: Frontiers In Neurorobotics
+  extra: '12'
+  type: journal
+- citekey: CalvoTapia2018-fast-social-like
+  authors:
+  - C. Calvo Tapia
+  - I. Y. Tyukin
+  - V. A. Makarov
+  title: Fast social-like learning of complex behaviors based on motor motifs
+  year: 2018
+  doi: https://doi.org/10.1103/PhysRevE.97.052308
+  link: https://doi.org/10.1103/PhysRevE.97.052308
+  venue: Physical Review E
+  extra: 97(5)
+  type: journal
+- citekey: Jarman2017-self-organisation-of
+  authors:
+  - N. Jarman
+  - E. Steur
+  - C. Trengove
+  - I. Y. Tyukin
+  - C. van Leeuwen
+  title: Self-organisation of small-world networks by adaptive rewiring in response to graph diffusion
+  year: 2017
+  doi: https://doi.org/10.1038/s41598-017-12589-9
+  link: https://doi.org/10.1038/s41598-017-12589-9
+  venue: Scientific Reports
+  extra: '7'
+  type: journal
+- citekey: Gorban2016-approximation-with-random
+  authors:
+  - A. N. Gorban
+  - I. Y. Tyukin
+  - D. V. Prokhorov
+  - K. I. Sofeikov
+  title: 'Approximation with random bases: Pro et Contra'
+  year: 2016
+  doi: https://doi.org/10.1016/j.ins.2015.09.021
+  link: https://doi.org/10.1016/j.ins.2015.09.021
+  venue: Information Sciences
+  extra: 364, pages 129-145
+  type: journal
+- citekey: Gorban2016-the-blessing-of
+  authors:
+  - A. N. Gorban
+  - I. Y. Tyukin
+  - I. Romanenko
+  title: 'The Blessing of Dimensionality: Separation Theorems in the Thermodynamic Limit'
+  year: 2016
+  doi: https://doi.org/10.1016/j.ifacol.2016.10.755
+  link: https://doi.org/10.1016/j.ifacol.2016.10.755
+  venue: IFAC Papersonline
+  extra: 49(24), pages 64-69
+  type: journal
+- citekey: Iudin2016-simple-model-of
+  authors:
+  - D. I. Iudin
+  - I. Y. Tyukin
+  - A. N. Gorban
+  - F. D. Iudin
+  - V. B. Kazantsev
+  - I. V. Muhina
+  - T. T. Tyukina
+  title: Simple model of complex bursting dynamics in developing networks of neuronal cultures
+  year: 2016
+  doi: https://doi.org/10.1016/j.ifacol.2016.07.983
+  link: https://doi.org/10.1016/j.ifacol.2016.07.983
+  venue: IFAC Papersonline
+  extra: 49(14), pages 68-73
+  type: journal
+- citekey: Prokin2015-phase-selective-oscillations
+  authors:
+  - I. Prokin
+  - I. Y. Tyukin
+  - V. Kazantsev
+  title: Phase Selective Oscillations in Two Noise Driven Synaptically Coupled Spiking Neurons
+  year: 2015
+  doi: https://doi.org/10.1142/S0218127415400052
+  link: https://doi.org/10.1142/S0218127415400052
+  venue: International Journal Of Bifurcation And Chaos
+  extra: 25(7)
+  type: journal
+- citekey: Fridman2015-preface
+  authors:
+  - G. Fridman
+  - J. Levesley
+  - I. Y. Tyukin
+  - D. Wunsch
+  title: Preface
+  year: 2015
+  doi: https://doi.org/10.1051/mmnp/201510301
+  link: https://doi.org/10.1051/mmnp/201510301
+  venue: Mathematical Modelling Of Natural Phenomena
+  extra: 10(3), pages 1-5
+  type: journal
+- citekey: Jarman2014-spatially-constrained-adaptive
+  authors:
+  - N. Jarman
+  - C. Trengove
+  - E. Steur
+  - I. Y. Tyukin
+  - C. van Leeuwen
+  title: Spatially constrained adaptive rewiring in cortical networks creates spatially modular small world architectures
+  year: 2014
+  doi: https://doi.org/10.1007/s11571-014-9288-y
+  link: https://doi.org/10.1007/s11571-014-9288-y
+  venue: Cognitive Neurodynamics
+  extra: 8(6), pages 479-497
+  type: journal
+- citekey: Jurica2013-sensory-optimization-by
+  authors:
+  - P. Jurica
+  - S. Gepshtein
+  - I. Y. Tyukin
+  - C. van Leeuwen
+  title: Sensory Optimization by Stochastic Tuning
+  year: 2013
+  doi: https://doi.org/10.1037/a0034192
+  link: https://doi.org/10.1037/a0034192
+  venue: Psychological Review
+  extra: 120(4), pages 798-816
+  type: journal
+- citekey: Tyukin2013-adaptive-observers-and
+  authors:
+  - I. Y. Tyukin
+  - E. Steur
+  - H. Nijmeijer
+  - C. van Leeuwen
+  title: Adaptive observers and parameter estimation for a class of systems nonlinear in the parameters
+  year: 2013
+  doi: https://doi.org/10.1016/j.automatica.2013.05.008
+  link: https://doi.org/10.1016/j.automatica.2013.05.008
+  venue: Automatica
+  extra: 49(8), pages 2409-2423
+  type: journal
+- citekey: Kazantsev2012-adaptive-and-phase
+  authors:
+  - V. Kazantsev
+  - I. Y. Tyukin
+  title: Adaptive and Phase Selective Spike Timing Dependent Plasticity in Synaptically Coupled Neuronal Oscillators
+  year: 2012
+  doi: https://doi.org/10.1371/journal.pone.0030411
+  link: https://doi.org/10.1371/journal.pone.0030411
+  venue: PLoS ONE
+  extra: 7(3)
+  type: journal
+- citekey: Tyukin2010-state-and-parameter
+  authors:
+  - I. Y. Tyukin
+  - E. Steur
+  - H. Nijmeijer
+  - D. Fairhurst
+  - I. Song
+  - A. Semyanov
+  - C. Van Leeuwen
+  title: State And Parameter Estimation For Canonic Models Of Neural Oscillators
+  year: 2010
+  doi: https://doi.org/10.1142/S0129065710002358
+  link: https://doi.org/10.1142/S0129065710002358
+  venue: International Journal Of Neural Systems
+  extra: 20(3), pages 193-207
+  type: journal
+- citekey: Steur2009-semi-passivity-and
+  authors:
+  - E. Steur
+  - I. Y. Tyukin
+  - H. Nijmeijer
+  title: Semi-passivity and synchronization of diffusively coupled neuronal oscillators
+  year: 2009
+  doi: https://doi.org/10.1016/j.physd.2009.08.007
+  link: https://doi.org/10.1016/j.physd.2009.08.007
+  venue: Physica D-Nonlinear Phenomena
+  extra: 238(21), pages 2119-2128
+  type: journal
+- citekey: Tyukin2009-invariant-template-matching
+  authors:
+  - I. Y. Tyukin
+  - T. Tyukina
+  - C. van Leeuwen
+  title: 'Invariant template matching in systems with spatiotemporal coding: A matter of instability'
+  year: 2009
+  doi: https://doi.org/10.1016/j.neunet.2009.01.014
+  link: https://doi.org/10.1016/j.neunet.2009.01.014
+  venue: Neural Networks
+  extra: 22(4), pages 425-449
+  type: journal
+- citekey: Tyukin2008-adaptive-classification-of
+  authors:
+  - I. Y. Tyukin
+  - D. Prokhorov
+  - C. Van Leeuwen
+  title: 'Adaptive classification of temporal signals in fixed-weight recurrent neural networks: An existence proof'
+  year: 2008
+  doi: https://doi.org/10.1162/neco.2008.05-07-527
+  link: https://doi.org/10.1162/neco.2008.05-07-527
+  venue: Neural Computation
+  extra: 20(10), pages 2564-2596
+  type: journal
+- citekey: Tyukin2008-nonuniform-small-gain
+  authors:
+  - I. Y. Tyukin
+  - E. Steur
+  - H. Nijmeijer
+  - C. Van Leeuwen
+  title: Nonuniform small-gain theorems for systems with unstable invariant sets
+  year: 2008
+  doi: https://doi.org/10.1137/060672546
+  link: https://doi.org/10.1137/060672546
+  venue: SIAM Journal On Control And Optimization
+  extra: 47(2), pages 849-882
   type: journal
