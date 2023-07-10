@@ -19,8 +19,8 @@ This approach has also been studied elsewhere[^entropy] [^3], and indeed in[^3] 
 
 #### References
 
-[^mathematical-fsl]: {%- include citation_markdown.html citekey="sutton2022-mathematical-fsl-arxiv" %}
+[^mathematical-fsl]: {%- include citation_markdown.html citekey="Sutton2022-towards-a-mathematical" %}
 
-[^entropy]: {%- include citation_markdown.html citekey="gorban2021-high-dim-separability-entropy" %}
+[^entropy]: {%- include citation_markdown.html citekey="Gorban2021-high-dimensional-separability" %}
 
-[^3]: {%- include citation_markdown.html citekey="tyukin2021-ijcnn-demystification" %}
+[^3]: {%- include citation_markdown.html citekey="Tyukin2021-demystification-of-few" %}
