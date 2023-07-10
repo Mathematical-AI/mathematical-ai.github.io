@@ -1,5 +1,4 @@
 ---
-identifier: oliver-sutton
 name: Oliver Sutton
 publication-name: O. J. Sutton
 position: Postdoctoral Research Associate

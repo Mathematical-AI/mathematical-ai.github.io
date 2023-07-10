@@ -1,5 +1,4 @@
 ---
-identifier: alexander-gorban
 name: Alexander Gorban
 publication-name: A. N. Gorban
 position: Professor of Mathematics

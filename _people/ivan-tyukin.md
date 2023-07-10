@@ -1,5 +1,4 @@
 ---
-identifier: ivan-tyukin
 name: Ivan Tyukin
 publication-name: I. Y. Tyukin
 position: Professor of Mathematics

@@ -1,5 +1,4 @@
 ---
-identifier: qinghua-zhou
 name: Qinghua Zhou
 publication-name: Q. Zhou
 position: Postdoctoral Research Associate
