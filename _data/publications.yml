@@ -15,7 +15,8 @@
   year: 2023
   title: "Agile gesture recognition for capacitive sensing devices: adapting on-the-job"
   link: https://arxiv.org/abs/2305.07624
-  venue: arXiv:2305.07624
+  venue: arXiv
+  extra: 2305.07624
   type: preprint
 
 - citekey: Sutton2022-towards-a-mathematical
@@ -26,7 +27,8 @@
   year: 2022
   title: Towards a mathematical understanding of learning from few examples with nonlinear feature maps
   link: https://arxiv.org/abs/2211.03607
-  venue: arXiv:2211.03607
+  venue: arXiv
+  extra: 2211.03607
   type: preprint
 
 # Conference proceedings articles
