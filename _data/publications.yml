@@ -3,6 +3,21 @@
 
 # Preprints
 
+- citekey: Sutton2023-how-adversarial-attacks
+  authors: 
+    - O. J. Sutton
+    - Q. Zhou
+    - I. Y Tyukin
+    - A. N. Gorban
+    - A. Bastounis
+    - D. J. Higham
+  year: 2023
+  title: How adversarial attacks can disrupt seemingly stable accurate classifiers
+  link: https://arxiv.org/abs/2309.03665
+  venue: arXiv
+  extra: 2309.03665
+  type: preprint
+
 - citekey: Liu2023-agile-gesture-recognition
   authors:
     - Y. Liu
@@ -33,6 +48,60 @@
 
 # Conference proceedings articles
 
+- citekey: instability-icann2023
+  authors: 
+    - A. Bastounis
+    - A. N. Gorban
+    - A. C. Hansen
+    - D. J. Higham
+    - D. Prokhorov
+    - O. J. Sutton
+    - I. Y. Tyukin
+    - Q. Zhou
+  year: 2023
+  title: The boundaries of verifiable accuracy, robustness, and generalisation in deep learning
+  link: https://link.springer.com/chapter/10.1007/978-3-031-44207-0_44
+  venue: International Conference on Artificial Neural Networks (ICANN) 2023
+  extra: vol 14254, pp 530-541, Springer, Cham
+  type: proceedings
+
+- citekey: intrinsic-dimensionality-icann2023
+  authors: 
+    - O. J. Sutton
+    - Q. Zhou
+    - A. N. Gorban
+    - I. Y. Tyukin
+  year: 2023
+  title: Relative intrinsic dimensionality is intrinsic to learning
+  link: https://link.springer.com/chapter/10.1007/978-3-031-44207-0_43
+  venue: International Conference on Artificial Neural Networks (ICANN) 2023
+  extra: vol 14254, pp 516-529, Springer, Cham
+  type: proceedings
+
+- citekey: geometric-few-shot-gsi2023
+  authors: 
+    - O. J. Sutton
+    - A. N. Gorban
+    - I. Y. Tyukin
+  year: 2023
+  title: A geometric view on the role of nonlinear feature maps in few-shot learning
+  link: https://link.springer.com/chapter/10.1007/978-3-031-38271-0_56
+  venue: Geometric Science of Information (GSI) 2023
+  extra: vol 14071, pp 560-568, Springer, Cham
+  type: proceedings
+
+- citekey: few-shot-computing-conference-2023
+  authors: 
+    - I. Y. Tyukin
+    - O. J. Sutton
+    - A. N. Gorban
+  year: 2023
+  title: Learning from few examples with nonlinear feature maps
+  link: https://link.springer.com/chapter/10.1007/978-3-031-37717-4_15
+  venue: Science and Information Conference (2023)
+  extra: vol 711, pp 210-225, Springer, Cham. Winner of best paper award
+  type: proceedings
+
 - citekey: Zhou2023-neuromorphic-tuning-of
   authors: 
     - Q. Zhou
@@ -43,7 +112,7 @@
     - I. Y. Tyukin
   year: 2023
   title: Neuromorphic tuning of feature spaces to overcome the challenge of low-sample high-dimensional data
-  venue: 2023 International Joint Conference On Neural Networks (IJCNN)
+  venue: International Joint Conference On Neural Networks (IJCNN) 2023
   type: proceedings
 
 - citekey: Leete2022-fast-situation-based
@@ -69,7 +138,7 @@
   year: 2022
   doi: https://doi.org/10.1109/IJCNN55064.2022.9892337
   link: https://doi.org/10.1109/IJCNN55064.2022.9892337
-  venue: 2022 International Joint Conference On Neural Networks (IJCNN)
+  venue: International Joint Conference On Neural Networks (IJCNN) 2022
   type: proceedings
 
 - citekey: Turker2021-efficient-state-synchronisation
