@@ -11,11 +11,11 @@ homepage: oliversutton.info
 
 ## Biography
 
-I studied nonstandard solutions to the PDE $-\Delta u = f$ a long long long long long long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long longlong long long long long longlong long long longlong long long longlong long long longlong long long longlong long long time ago.
+Oliver Sutton is an applied mathematician specialising in Machine Learning and Numerical analysis. Key focuses of his current work include the challenging problem of understanding algorithms which learn from very limited data, and exploring the fundamental stability and instability properties of neural network classifiers learned from data.
 
 
 ## Publications
-Here are some recent publications:
+Here are some recent relevant publications:
 {% include publication_list.html author=page.publication-name %}
 
 
